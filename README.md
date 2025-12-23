@@ -25,4 +25,7 @@ Each folder contains simple C programs with comments for easy understanding.
    ./output
 
 ## Author
-KK Niazi
+## Author
+Your Khubaib Niazi  
+GitHub: @khubaibniazi
+
