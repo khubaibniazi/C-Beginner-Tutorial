@@ -26,6 +26,6 @@ Each folder contains simple C programs with comments for easy understanding.
 
 ## Author
 ## Author
- Khubaib Niazi  
+Khubaib Niazi  
 GitHub: @khubaibniazi
 
